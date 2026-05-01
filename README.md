@@ -49,9 +49,9 @@ Three principles govern every chapter of this book:
 
 **No memorization without understanding.** Every concept is introduced through a problem that makes it necessary. Students feel the gap before they receive the tool to fill it.
 
-**No shortcuts around problem solving.** Students are asked to predict program behavior, debug incorrect logic, and construct solutions from partial understanding — before seeing the answer.
+**No shortcuts around problem solving.** Students are asked to predict program behavior, debug incorrect logic, and construct solutions from partial understanding before seeing the answer.
 
-**Students are trained to think, not copy.** A student who finishes this book should be able to approach an unfamiliar problem, break it down, and make progress — even without having seen that exact problem before.
+**Students are trained to think, not copy.** A student who finishes this book should be able to approach an unfamiliar problem, break it down, and make progress even without having seen that exact problem before.
 
 ---
 
