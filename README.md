@@ -16,7 +16,7 @@
 
 CS Made Easy is a programming textbook written by two high school students in Ethiopia. It teaches Python from the ground up — not through definitions and memorization, but through a narrative-driven, problem-first approach we developed ourselves.
 
-The book follows David, a junior software engineer navigating real tasks at his first job. Every concept in the book is introduced because David needs it to solve a problem in front of him. Students learn the way programmers actually learn: through necessity, not instruction.
+The book follows David, a summer intern at a supermarket navigating real tasks at his first job. Every concept in the book is introduced because David needs it to solve a problem in front of him. Students learn the way programmers actually learn: through necessity, not instruction.
 
 We wrote this book. We tested it by teaching it. And we are currently using it as our primary textbook.
 
