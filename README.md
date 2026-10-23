@@ -60,6 +60,7 @@ Our AI & Machine Learning educational program, delivered in collaboration with *
 Explore our repositories for educational resources, course materials, programming projects, and initiatives.
 
 - **[CS Made Easy Textbook](https://github.com/nethen-ui/CS-Made-Easy-Textbook)**: Our introductory Python programming textbook and learning materials.
+- **[AI Hub](https://github.com/nethen-ui/AI-Hub/tree/main)**: Introductory Artificial Intelligence course made possible in collaboration with experts in the field.
 
 ---
 
